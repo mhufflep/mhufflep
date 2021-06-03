@@ -1,22 +1,14 @@
----
-title: Mhufflep
-author: Mhufflep
-date: June 3, 2021
-output:
- html_document:
-  theme: null
-  highlight: null
-  css: style.css
-  
----
 
-<html>
+
+<!-- <html>
  <link rel="stylesheet" href="style.css">
 <div class="parallax"></div>
 </html>
+-->
+<!-- <img src="./code.jpg" alt="hi" class="inline"/> -->
 
-<img src="./code.png" alt="hi" class="inline"/>
-
+![hhhh](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+<!-- ![Alt](https://www.fromanniek.com/wp-content/uploads/2018/06/0587f251249217.58e7079c0894c.gif) -->
 
 # Projects:
 

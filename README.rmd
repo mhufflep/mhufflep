@@ -1,3 +1,15 @@
+---
+title: Mhufflep
+author: Mhufflep
+date: June 3, 2021
+output:
+ html_document:
+  theme: null
+  highlight: null
+  css: style.css
+  
+---
+
 <html>
  <link rel="stylesheet" href="style.css">
 <div class="parallax"></div>

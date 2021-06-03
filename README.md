@@ -7,12 +7,13 @@
 -->
 <!-- <img src="./code.jpg" alt="hi" class="inline"/> -->
 
-![hhhh](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+
 <!-- ![Alt](https://www.fromanniek.com/wp-content/uploads/2018/06/0587f251249217.58e7079c0894c.gif) -->
 
 # Projects:
 
 ### Current:
+ ![current](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
   * _**Shell**_ - creating own simple bourne shell (bash) version.
   * _**Philosophers**_ - solution of dining philosophers problem.
   * _**Cpp-modules**_ - C++ and OOP basics learning
@@ -21,6 +22,7 @@
   * _**Splinter**_ - a program that will split functions in .c files into .c and .h files.
 
 ### Done:
+![done](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
  * _**Cub3d**_ - a simple raycasting engine similar to the one in wolfenstein 3D.
  * _**Printf**_ - reproducing printf function in C lang.
  * _**Getline**_ - allows to read from file descriptor by SIZE bytes and returns the line.

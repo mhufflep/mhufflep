@@ -14,5 +14,5 @@
  * _**`Cub3d`**_ - a simple raycasting engine similar to the one in wolfenstein 3D.
  * _**`Printf`**_ - reproducing printf function in C lang.
  * _**`Getline`**_ - allows to read from file descriptor by SIZE bytes and returns the line.
- * _**`Base-server`**_ - building my own server (LEMP-stack) usign Docker.
+ * _**`simple-server`**_ - building my own server (LEMP-stack) using Docker.
  * _**`Logo-printer`**_ - a simple logo-printer devoted to ``` School 21 (42 accociation).  ```

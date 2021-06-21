@@ -2,7 +2,6 @@
 
 ### Current:
  ![current](crazycat_opt.gif)
-  * _**`Shell`**_ - creating own simple bourne shell (bash) version.
   * _**`Philosophers`**_ - solution of dining philosophers problem.
   * _**`Cpp-modules`**_ - C++ and OOP basics learning
   * _**`Bd-list`**_ - simple library in C that allows to use bidirectional list data structure.
@@ -11,6 +10,7 @@
 
 ### Done:
 ![done](lazydog.gif)
+ * _**`Shell`**_ - creating own simple bourne shell (bash) version. (Group proj with [levensta](https://github.com/levensta))
  * _**`Cub3d`**_ - a simple raycasting engine similar to the one in wolfenstein 3D.
  * _**`Printf`**_ - reproducing printf function in C lang.
  * _**`Getline`**_ - allows to read from file descriptor by SIZE bytes and returns the line.

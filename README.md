@@ -4,7 +4,7 @@
  ![current](crazycat_opt.gif)
   * _**`Philosophers`**_ - solution of dining philosophers problem.
   * _**`Cpp-modules`**_ - C++ and OOP basics learning
-  * _**`Bd-list`**_ - simple library in C that allows to use bidirectional list data structure.
+  * _**`libbdlst`**_ - simple library in C that allows to use bidirectional list data structure.
   * _**`Services`**_ - building my own server with services using Kubernetes (minikube).
   * _**`Splinter`**_- a program that will split functions in .c files into .c and .h files.
 

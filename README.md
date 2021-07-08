@@ -5,7 +5,7 @@
   * _**`Philosophers`**_ - solution of dining philosophers problem.
   * _**`Cpp-modules`**_ - C++ and OOP basics learning
   * _**`libbdlst`**_ - simple library in C that allows to use bidirectional list data structure.
-  * _**`K8s-cluster`**_ - building my own cluster with services using Kubernetes (minikube).
+  * _**`K8s-cluster`**_ - building my own cluster with services using Kubernetes.
   * _**`Splinter`**_- a program that will split functions in .c files into .c and .h files.
 
 ### Done:
